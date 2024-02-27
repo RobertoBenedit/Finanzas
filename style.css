@@ -1,0 +1,9 @@
+.container1{
+    display: flex;
+    flex-direction: row;
+}
+
+.tradingview-widget-container{
+    width: 100%;
+    height: 00px;
+}
